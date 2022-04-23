@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "cstdlib": "cpp",
+        "string": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "xiosbase": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "stack": "cpp",
+        "deque": "cpp",
+        "iosfwd": "cpp",
+        "system_error": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "queue": "cpp",
+        "type_traits": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "ostream": "cpp"
+    },
+    "cmake.configureOnOpen": false
+}
